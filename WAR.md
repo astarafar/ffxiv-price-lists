@@ -1,6 +1,6 @@
-# Paladin Set
+# Warrior Set
 
-Universalis market data retrieved: `2022-08-26 17:22:15 UTC`
+Universalis market data retrieved: `2022-08-26 17:22:20 UTC`
 
 ## Base Materials
 
@@ -66,18 +66,18 @@ Universalis market data retrieved: `2022-08-26 17:22:15 UTC`
 
 | Name              | Qty   | Price Each   | Price   |
 |:------------------|:------|:-------------|:--------|
-| Earth Cluster     | 81    | 29           | 2349    |
+| Earth Cluster     | 78    | 29           | 2262    |
 | Wind Cluster      | 75    | 31           | 2325    |
 | Fire Cluster      | 66    | 84           | 5544    |
 | Fire Crystal      | 40    | 119          | 4760    |
-| Ice Cluster       | 36    | 49           | 1764    |
 | Lightning Cluster | 36    | 21           | 756     |
+| Ice Cluster       | 33    | 49           | 1617    |
 | Wind Crystal      | 24    | 94           | 2256    |
 | Water Cluster     | 18    | 48           | 864     |
 | Earth Crystal     | 16    | 28           | 448     |
 | Lightning Crystal | 8     | 48           | 384     |
 | -                 | -     | -            | -       |
-| Total             |       |              | 21450   |
+| Total             |       |              | 21216   |
 
 ## Base Materials Prices by Category
 
@@ -88,7 +88,7 @@ Universalis market data retrieved: `2022-08-26 17:22:15 UTC`
 | Aetherial Reduction        |   53814 |
 | Drops, GC Seals, Gemstones |    8336 |
 | Tomestones                 | 1370588 |
-| Crystals                   |   21450 |
+| Crystals                   |   21216 |
 
 ## Intermediate Products
 
@@ -116,11 +116,10 @@ Universalis market data retrieved: `2022-08-26 17:22:15 UTC`
 | Rinascita Cuirass of Fending   | 1     | 965983       | 965983  |
 | Rinascita Earring of Fending   | 1     | 657840       | 657840  |
 | Rinascita Helm of Fending      | 1     | 692550       | 692550  |
-| Rinascita Kite Shield          | 1     | 874169       | 874169  |
+| Rinascita Labrys               | 1     | 992602       | 992602  |
 | Rinascita Necklace of Fending  | 1     | 732010       | 732010  |
 | Rinascita Poleyns of Fending   | 1     | 992274       | 992274  |
 | Rinascita Sabatons of Fending  | 1     | 854461       | 854461  |
-| Rinascita Sword                | 1     | 965964       | 965964  |
 | Rinascita Vambraces of Fending | 1     | 757204       | 757204  |
 | -                              | -     | -            | -       |
-| Total                          |       |              | 9022798 |
+| Total                          |       |              | 8175267 |

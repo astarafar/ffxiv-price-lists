@@ -1,6 +1,6 @@
-# Paladin Set
+# Dragoon Set
 
-Universalis market data retrieved: `2022-08-26 17:22:15 UTC`
+Universalis market data retrieved: `2022-08-26 17:23:17 UTC`
 
 ## Base Materials
 
@@ -8,14 +8,14 @@ Universalis market data retrieved: `2022-08-26 17:22:15 UTC`
 
 | Name                 | Qty   | Price Each   | Price   |
 |:---------------------|:------|:-------------|:--------|
-| Ilmenite             | 75    | 3773         | 282975  |
+| Ilmenite             | 65    | 3773         | 245245  |
+| Paldao Log           | 30    | 919          | 27570   |
 | Bayberry             | 25    | 4544         | 113600  |
 | Haritaki             | 25    | 4095         | 102375  |
 | Raw Rutilated Quartz | 25    | 1465         | 36625   |
-| Paldao Log           | 20    | 919          | 18380   |
 | Ash Diatomite        | 6     | 270          | 1620    |
 | -                    | -     | -            | -       |
-| Total                |       |              | 555575  |
+| Total                |       |              | 527035  |
 
 ### Gathering
 
@@ -24,23 +24,23 @@ Universalis market data retrieved: `2022-08-26 17:22:15 UTC`
 | Chondrite            | 25    | 469          | 11725   |
 | Integral Log         | 15    | 779          | 11685   |
 | Ambrosial Water      | 6     | 440          | 2640    |
-| Lime Basil           | 6     | 1010         | 6060    |
+| Sweet Alyssum        | 6     | 695          | 4170    |
 | AR-Caean Cotton Boll | 5     | 402          | 2010    |
 | Dimythrite Ore       | 5     | 432          | 2160    |
 | Eblan Alumen         | 2     | 459          | 918     |
 | -                    | -     | -            | -       |
-| Total                |       |              | 37198   |
+| Total                |       |              | 35308   |
 
 ### Aetherial Reduction
 
 | Name                 | Qty   | Price Each   | Price   |
 |:---------------------|:------|:-------------|:--------|
 | Moonlight Aethersand | 6     | 3978         | 23868   |
-| Endstone Aethersand  | 4     | 1796         | 7184    |
-| Endwood Aethersand   | 4     | 1174         | 4696    |
+| Endstone Aethersand  | 5     | 1796         | 8980    |
 | Endtide Aethersand   | 3     | 6022         | 18066   |
+| Endwood Aethersand   | 3     | 1174         | 3522    |
 | -                    | -     | -            | -       |
-| Total                |       |              | 53814   |
+| Total                |       |              | 54436   |
 
 ### Drops, GC Seals, Gemstones
 
@@ -54,73 +54,72 @@ Universalis market data retrieved: `2022-08-26 17:22:15 UTC`
 
 | Name                  | Qty   | Price Each   | Price   |
 |:----------------------|:------|:-------------|:--------|
-| Vanadinite            | 30    | 20620        | 618600  |
+| Vanadinite            | 26    | 20620        | 536120  |
+| Hannish Varnish       | 12    | 19396        | 232752  |
 | Palebloom Kudzu Cloth | 10    | 20319        | 203190  |
 | Thavnairian Almandine | 10    | 19159        | 191590  |
 | Titanoboa Skin        | 10    | 20204        | 202040  |
-| Hannish Varnish       | 8     | 19396        | 155168  |
 | -                     | -     | -            | -       |
-| Total                 |       |              | 1370588 |
+| Total                 |       |              | 1365692 |
 
 ### Crystals
 
 | Name              | Qty   | Price Each   | Price   |
 |:------------------|:------|:-------------|:--------|
-| Earth Cluster     | 81    | 29           | 2349    |
-| Wind Cluster      | 75    | 31           | 2325    |
-| Fire Cluster      | 66    | 84           | 5544    |
+| Wind Cluster      | 84    | 31           | 2604    |
+| Earth Cluster     | 69    | 29           | 2001    |
+| Fire Cluster      | 57    | 84           | 4788    |
+| Ice Cluster       | 42    | 49           | 2058    |
 | Fire Crystal      | 40    | 119          | 4760    |
-| Ice Cluster       | 36    | 49           | 1764    |
 | Lightning Cluster | 36    | 21           | 756     |
 | Wind Crystal      | 24    | 94           | 2256    |
 | Water Cluster     | 18    | 48           | 864     |
 | Earth Crystal     | 16    | 28           | 448     |
 | Lightning Crystal | 8     | 48           | 384     |
 | -                 | -     | -            | -       |
-| Total             |       |              | 21450   |
+| Total             |       |              | 20919   |
 
 ## Base Materials Prices by Category
 
 | Category                   |   Total |
 |:---------------------------|--------:|
-| Timed Gathering            |  555575 |
-| Gathering                  |   37198 |
-| Aetherial Reduction        |   53814 |
+| Timed Gathering            |  527035 |
+| Gathering                  |   35308 |
+| Aetherial Reduction        |   54436 |
 | Drops, GC Seals, Gemstones |    8336 |
-| Tomestones                 | 1370588 |
-| Crystals                   |   21450 |
+| Tomestones                 | 1365692 |
+| Crystals                   |   20919 |
 
 ## Intermediate Products
 
 | Name                      | Qty   | Price Each   | Price   |
 |:--------------------------|:------|:-------------|:--------|
-| Grade 7 Vitality Alkahest | 17    | 14561        | 247537  |
-| Ilmenite Ingot            | 15    | 81996        | 1229940 |
+| Grade 7 Strength Alkahest | 17    | 11447        | 194599  |
+| Ilmenite Ingot            | 13    | 81996        | 1065948 |
+| Paldao Lumber             | 6     | 87989        | 527934  |
 | Bayberry Cloth            | 5     | 88909        | 444545  |
 | Chondrite Ingot           | 5     | 6872         | 34360   |
 | Rutilated Quartz          | 5     | 74808        | 374040  |
 | Titanoboa Leather         | 5     | 105565       | 527825  |
-| Paldao Lumber             | 4     | 87989        | 351956  |
 | Integral Lumber           | 3     | 6091         | 18273   |
 | Ophiotauros Leather       | 2     | 9129         | 18258   |
 | AR-Caean Velvet           | 1     | 4977         | 4977    |
 | -                         | -     | -            | -       |
-| Total                     |       |              | 3251711 |
+| Total                     |       |              | 3210759 |
 
 ## Final Product Market Prices
 
 | Name                           | Qty   | Price Each   | Price   |
 |:-------------------------------|:------|:-------------|:--------|
-| Rinascita Ring of Fending      | 2     | 546385       | 1092770 |
-| Rinascita Bracelet of Fending  | 1     | 437573       | 437573  |
-| Rinascita Cuirass of Fending   | 1     | 965983       | 965983  |
-| Rinascita Earring of Fending   | 1     | 657840       | 657840  |
-| Rinascita Helm of Fending      | 1     | 692550       | 692550  |
-| Rinascita Kite Shield          | 1     | 874169       | 874169  |
-| Rinascita Necklace of Fending  | 1     | 732010       | 732010  |
-| Rinascita Poleyns of Fending   | 1     | 992274       | 992274  |
-| Rinascita Sabatons of Fending  | 1     | 854461       | 854461  |
-| Rinascita Sword                | 1     | 965964       | 965964  |
-| Rinascita Vambraces of Fending | 1     | 757204       | 757204  |
+| Rinascita Ring of Slaying      | 2     | 527670       | 1055340 |
+| Rinascita Bracelet of Slaying  | 1     | 686359       | 686359  |
+| Rinascita Cuirass of Maiming   | 1     | 1064014      | 1064014 |
+| Rinascita Earring of Slaying   | 1     | 655501       | 655501  |
+| Rinascita Helm of Maiming      | 1     | 896655       | 896655  |
+| Rinascita Necklace of Slaying  | 1     | 567559       | 567559  |
+| Rinascita Poleyns of Maiming   | 1     | 1120055      | 1120055 |
+| Rinascita Sabatons of Maiming  | 1     | 914247       | 914247  |
+| Rinascita Spear                | 1     | 1211481      | 1211481 |
+| Rinascita Vambraces of Maiming | 1     | 970183       | 970183  |
 | -                              | -     | -            | -       |
-| Total                          |       |              | 9022798 |
+| Total                          |       |              | 9141394 |

@@ -1,6 +1,6 @@
-# Summoner Set
+# RedMage Set
 
-Universalis market data retrieved: `2022-08-26 17:24:10 UTC`
+Universalis market data retrieved: `2022-08-26 17:24:16 UTC`
 
 ## Base Materials
 
@@ -8,14 +8,14 @@ Universalis market data retrieved: `2022-08-26 17:24:10 UTC`
 
 | Name                 | Qty   | Price Each   | Price   |
 |:---------------------|:------|:-------------|:--------|
-| Bayberry             | 60    | 4544         | 272640  |
-| Haritaki             | 60    | 4095         | 245700  |
-| Raw Rutilated Quartz | 25    | 1465         | 36625   |
+| Bayberry             | 50    | 4544         | 227200  |
+| Haritaki             | 45    | 4095         | 184275  |
+| Raw Rutilated Quartz | 35    | 1465         | 51275   |
+| Ilmenite             | 20    | 3773         | 75460   |
 | Paldao Log           | 20    | 919          | 18380   |
 | Ash Diatomite        | 6     | 270          | 1620    |
-| Ilmenite             | 5     | 3773         | 18865   |
 | -                    | -     | -            | -       |
-| Total                |       |              | 593830  |
+| Total                |       |              | 558210  |
 
 ### Gathering
 
@@ -24,13 +24,14 @@ Universalis market data retrieved: `2022-08-26 17:24:10 UTC`
 | AR-Caean Cotton Boll | 15    | 402          | 6030    |
 | Integral Log         | 15    | 779          | 11685   |
 | Chondrite            | 10    | 469          | 4690    |
-| Ambrosial Water      | 7     | 440          | 3080    |
+| Ambrosial Water      | 6     | 440          | 2640    |
 | Fernleaf Lavender    | 6     | 660          | 3960    |
-| Manganese Ore        | 4     | 301          | 1204    |
+| Annite               | 4     | 402          | 1608    |
+| Raw Star Quartz      | 3     | 242          | 726     |
 | Dimythrite Ore       | 2     | 432          | 864     |
 | Eblan Alumen         | 2     | 459          | 918     |
 | -                    | -     | -            | -       |
-| Total                |       |              | 32431   |
+| Total                |       |              | 33121   |
 
 ### Aetherial Reduction
 
@@ -48,68 +49,67 @@ Universalis market data retrieved: `2022-08-26 17:24:10 UTC`
 | Name             | Qty   | Price Each   | Price   |
 |:-----------------|:------|:-------------|:--------|
 | Ophiotauros Hide | 8     | 1042         | 8336    |
-| Petalouda Scales | 1     | 906          | 906     |
 | -                | -     | -            | -       |
-| Total            |       |              | 9242    |
+| Total            |       |              | 8336    |
 
 ### Tomestones
 
 | Name                  | Qty   | Price Each   | Price   |
 |:----------------------|:------|:-------------|:--------|
-| Palebloom Kudzu Cloth | 24    | 20319        | 487656  |
-| Titanoboa Skin        | 24    | 20204        | 484896  |
-| Thavnairian Almandine | 10    | 19159        | 191590  |
+| Palebloom Kudzu Cloth | 20    | 20319        | 406380  |
+| Titanoboa Skin        | 18    | 20204        | 363672  |
+| Thavnairian Almandine | 14    | 19159        | 268226  |
 | Hannish Varnish       | 8     | 19396        | 155168  |
-| Vanadinite            | 2     | 20620        | 41240   |
+| Vanadinite            | 8     | 20620        | 164960  |
 | -                     | -     | -            | -       |
-| Total                 |       |              | 1360550 |
+| Total                 |       |              | 1358406 |
 
 ### Crystals
 
 | Name              | Qty   | Price Each   | Price   |
 |:------------------|:------|:-------------|:--------|
-| Wind Cluster      | 129   | 31           | 3999    |
-| Lightning Cluster | 63    | 21           | 1323    |
+| Wind Cluster      | 123   | 31           | 3813    |
+| Lightning Cluster | 54    | 21           | 1134    |
 | Earth Cluster     | 48    | 29           | 1392    |
-| Fire Cluster      | 24    | 84           | 2016    |
+| Fire Cluster      | 42    | 84           | 3528    |
+| Wind Crystal      | 40    | 94           | 3760    |
 | Lightning Crystal | 24    | 48           | 1152    |
-| Wind Crystal      | 24    | 94           | 2256    |
 | Ice Cluster       | 21    | 49           | 1029    |
-| Water Cluster     | 21    | 48           | 1008    |
+| Water Cluster     | 18    | 48           | 864     |
 | Earth Crystal     | 16    | 28           | 448     |
 | Fire Crystal      | 16    | 119          | 1904    |
-| Water Crystal     | 8     | 98           | 784     |
 | -                 | -     | -            | -       |
-| Total             |       |              | 17311   |
+| Total             |       |              | 19024   |
 
 ## Base Materials Prices by Category
 
 | Category                   |   Total |
 |:---------------------------|--------:|
-| Timed Gathering            |  593830 |
-| Gathering                  |   32431 |
+| Timed Gathering            |  558210 |
+| Gathering                  |   33121 |
 | Aetherial Reduction        |   53814 |
-| Drops, GC Seals, Gemstones |    9242 |
-| Tomestones                 | 1360550 |
-| Crystals                   |   17311 |
+| Drops, GC Seals, Gemstones |    8336 |
+| Tomestones                 | 1358406 |
+| Crystals                   |   19024 |
 
 ## Intermediate Products
 
 | Name                          | Qty   | Price Each   | Price   |
 |:------------------------------|:------|:-------------|:--------|
 | Grade 7 Intelligence Alkahest | 17    | 14743        | 250631  |
-| Bayberry Cloth                | 12    | 88909        | 1066908 |
-| Titanoboa Leather             | 12    | 105565       | 1266780 |
-| Rutilated Quartz              | 5     | 74808        | 374040  |
+| Bayberry Cloth                | 10    | 88909        | 889090  |
+| Titanoboa Leather             | 9     | 105565       | 950085  |
+| Rutilated Quartz              | 7     | 74808        | 523656  |
+| Ilmenite Ingot                | 4     | 81996        | 327984  |
 | Paldao Lumber                 | 4     | 87989        | 351956  |
 | AR-Caean Velvet               | 3     | 4977         | 14931   |
 | Integral Lumber               | 3     | 6091         | 18273   |
 | Chondrite Ingot               | 2     | 6872         | 13744   |
 | Ophiotauros Leather           | 2     | 9129         | 18258   |
-| Enchanted Manganese Ink       | 1     | 9127         | 9127    |
-| Ilmenite Ingot                | 1     | 81996        | 81996   |
+| Annite Whetstone              | 1     | 885          | 885     |
+| Star Quartz                   | 1     | 3385         | 3385    |
 | -                             | -     | -            | -       |
-| Total                         |       |              | 3466644 |
+| Total                         |       |              | 3362878 |
 
 ## Final Product Market Prices
 
@@ -121,9 +121,9 @@ Universalis market data retrieved: `2022-08-26 17:24:10 UTC`
 | Rinascita Coat of Casting      | 1     | 915855       | 915855  |
 | Rinascita Earring of Casting   | 1     | 607094       | 607094  |
 | Rinascita Hood of Casting      | 1     | 881971       | 881971  |
-| Rinascita Index                | 1     | 1332754      | 1332754 |
 | Rinascita Necklace of Casting  | 1     | 639173       | 639173  |
 | Rinascita Poleyns of Casting   | 1     | 902262       | 902262  |
+| Rinascita Rapier               | 1     | 1195787      | 1195787 |
 | Rinascita Shoes of Casting     | 1     | 725338       | 725338  |
 | -                              | -     | -            | -       |
-| Total                          |       |              | 8702270 |
+| Total                          |       |              | 8565303 |
