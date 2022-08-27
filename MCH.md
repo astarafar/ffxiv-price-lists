@@ -1,6 +1,6 @@
 # Machinist Set
 
-Universalis market data retrieved: `2022-08-26 17:23:48 UTC`
+Universalis market data retrieved: `2022-08-27 16:24:38 UTC`
 
 ## Base Materials
 
@@ -8,122 +8,122 @@ Universalis market data retrieved: `2022-08-26 17:23:48 UTC`
 
 | Name                 | Qty   | Price Each   | Price   |
 |:---------------------|:------|:-------------|:--------|
-| Bayberry             | 55    | 4544         | 249920  |
-| Haritaki             | 45    | 4095         | 184275  |
-| Ilmenite             | 30    | 3773         | 113190  |
-| Raw Rutilated Quartz | 25    | 1465         | 36625   |
-| Paldao Log           | 15    | 919          | 13785   |
-| Ash Diatomite        | 6     | 270          | 1620    |
+| Bayberry             | 55    | 3007         | 165385  |
+| Haritaki             | 45    | 3229         | 145305  |
+| Ilmenite             | 30    | 3598         | 107940  |
+| Raw Rutilated Quartz | 25    | 1119         | 27975   |
+| Paldao Log           | 15    | 751          | 11265   |
+| Ash Diatomite        | 6     | 177          | 1062    |
 | -                    | -     | -            | -       |
-| Total                |       |              | 599415  |
+| Total                |       |              | 458932  |
 
 ### Gathering
 
 | Name                 | Qty   | Price Each   | Price   |
 |:---------------------|:------|:-------------|:--------|
-| Chondrite            | 15    | 469          | 7035    |
-| Integral Log         | 15    | 779          | 11685   |
-| Ambrosial Water      | 6     | 440          | 2640    |
-| Light Gerbera        | 6     | 759          | 4554    |
-| AR-Caean Cotton Boll | 5     | 402          | 2010    |
-| Annite               | 4     | 402          | 1608    |
-| Dimythrite Ore       | 3     | 432          | 1296    |
-| Eblan Alumen         | 3     | 459          | 1377    |
-| Raw Star Quartz      | 3     | 242          | 726     |
+| Chondrite            | 15    | 433          | 6495    |
+| Integral Log         | 15    | 581          | 8715    |
+| Ambrosial Water      | 6     | 418          | 2508    |
+| Light Gerbera        | 6     | 704          | 4224    |
+| AR-Caean Cotton Boll | 5     | 441          | 2205    |
+| Annite               | 4     | 394          | 1576    |
+| Dimythrite Ore       | 3     | 379          | 1137    |
+| Eblan Alumen         | 3     | 384          | 1152    |
+| Raw Star Quartz      | 3     | 162          | 486     |
 | -                    | -     | -            | -       |
-| Total                |       |              | 32931   |
+| Total                |       |              | 28498   |
 
 ### Aetherial Reduction
 
 | Name                 | Qty   | Price Each   | Price   |
 |:---------------------|:------|:-------------|:--------|
-| Moonlight Aethersand | 6     | 3978         | 23868   |
-| Endstone Aethersand  | 5     | 1796         | 8980    |
-| Endtide Aethersand   | 3     | 6022         | 18066   |
-| Endwood Aethersand   | 3     | 1174         | 3522    |
+| Moonlight Aethersand | 6     | 3694         | 22164   |
+| Endstone Aethersand  | 5     | 2314         | 11570   |
+| Endtide Aethersand   | 3     | 6148         | 18444   |
+| Endwood Aethersand   | 3     | 1751         | 5253    |
 | -                    | -     | -            | -       |
-| Total                |       |              | 54436   |
+| Total                |       |              | 57431   |
 
 ### Drops, GC Seals, Gemstones
 
 | Name             | Qty   | Price Each   | Price   |
 |:-----------------|:------|:-------------|:--------|
-| Ophiotauros Hide | 12    | 1042         | 12504   |
+| Ophiotauros Hide | 12    | 1094         | 13128   |
 | -                | -     | -            | -       |
-| Total            |       |              | 12504   |
+| Total            |       |              | 13128   |
 
 ### Tomestones
 
 | Name                  | Qty   | Price Each   | Price   |
 |:----------------------|:------|:-------------|:--------|
-| Palebloom Kudzu Cloth | 22    | 20319        | 447018  |
-| Titanoboa Skin        | 18    | 20204        | 363672  |
-| Vanadinite            | 12    | 20620        | 247440  |
-| Thavnairian Almandine | 10    | 19159        | 191590  |
-| Hannish Varnish       | 6     | 19396        | 116376  |
+| Palebloom Kudzu Cloth | 22    | 17292        | 380424  |
+| Titanoboa Skin        | 18    | 17916        | 322488  |
+| Vanadinite            | 12    | 18931        | 227172  |
+| Thavnairian Almandine | 10    | 17185        | 171850  |
+| Hannish Varnish       | 6     | 16805        | 100830  |
 | -                     | -     | -            | -       |
-| Total                 |       |              | 1366096 |
+| Total                 |       |              | 1202764 |
 
 ### Crystals
 
 | Name              | Qty   | Price Each   | Price   |
 |:------------------|:------|:-------------|:--------|
-| Wind Cluster      | 111   | 31           | 3441    |
-| Earth Cluster     | 57    | 29           | 1653    |
-| Lightning Cluster | 57    | 21           | 1197    |
-| Fire Cluster      | 42    | 84           | 3528    |
+| Wind Cluster      | 111   | 36           | 3996    |
+| Earth Cluster     | 57    | 32           | 1824    |
+| Lightning Cluster | 57    | 27           | 1539    |
+| Fire Cluster      | 42    | 91           | 3822    |
 | Wind Crystal      | 40    | 94           | 3760    |
-| Earth Crystal     | 24    | 28           | 672     |
-| Fire Crystal      | 24    | 119          | 2856    |
-| Ice Cluster       | 21    | 49           | 1029    |
-| Water Cluster     | 18    | 48           | 864     |
-| Lightning Crystal | 8     | 48           | 384     |
+| Earth Crystal     | 24    | 29           | 696     |
+| Fire Crystal      | 24    | 115          | 2760    |
+| Ice Cluster       | 21    | 41           | 861     |
+| Water Cluster     | 18    | 66           | 1188    |
+| Lightning Crystal | 8     | 36           | 288     |
 | -                 | -     | -            | -       |
-| Total             |       |              | 19384   |
+| Total             |       |              | 20734   |
 
 ## Base Materials Prices by Category
 
 | Category                   |   Total |
 |:---------------------------|--------:|
-| Timed Gathering            |  599415 |
-| Gathering                  |   32931 |
-| Aetherial Reduction        |   54436 |
-| Drops, GC Seals, Gemstones |   12504 |
-| Tomestones                 | 1366096 |
-| Crystals                   |   19384 |
+| Timed Gathering            |  458932 |
+| Gathering                  |   28498 |
+| Aetherial Reduction        |   57431 |
+| Drops, GC Seals, Gemstones |   13128 |
+| Tomestones                 | 1202764 |
+| Crystals                   |   20734 |
 
 ## Intermediate Products
 
 | Name                       | Qty   | Price Each   | Price   |
 |:---------------------------|:------|:-------------|:--------|
-| Grade 7 Dexterity Alkahest | 17    | 11220        | 190740  |
-| Bayberry Cloth             | 11    | 88909        | 977999  |
-| Titanoboa Leather          | 9     | 105565       | 950085  |
-| Ilmenite Ingot             | 6     | 81996        | 491976  |
-| Rutilated Quartz           | 5     | 74808        | 374040  |
-| Chondrite Ingot            | 3     | 6872         | 20616   |
-| Integral Lumber            | 3     | 6091         | 18273   |
-| Ophiotauros Leather        | 3     | 9129         | 27387   |
-| Paldao Lumber              | 3     | 87989        | 263967  |
-| AR-Caean Velvet            | 1     | 4977         | 4977    |
-| Annite Whetstone           | 1     | 885          | 885     |
-| Star Quartz                | 1     | 3385         | 3385    |
+| Grade 7 Dexterity Alkahest | 17    | 11528        | 195976  |
+| Bayberry Cloth             | 11    | 76565        | 842215  |
+| Titanoboa Leather          | 9     | 88943        | 800487  |
+| Ilmenite Ingot             | 6     | 74080        | 444480  |
+| Rutilated Quartz           | 5     | 77667        | 388335  |
+| Chondrite Ingot            | 3     | 5691         | 17073   |
+| Integral Lumber            | 3     | 6269         | 18807   |
+| Ophiotauros Leather        | 3     | 9624         | 28872   |
+| Paldao Lumber              | 3     | 69777        | 209331  |
+| AR-Caean Velvet            | 1     | 4212         | 4212    |
+| Annite Whetstone           | 1     | 805          | 805     |
+| Star Quartz                | 1     | 1987         | 1987    |
 | -                          | -     | -            | -       |
-| Total                      |       |              | 3324330 |
+| Total                      |       |              | 2952580 |
 
 ## Final Product Market Prices
 
 | Name                         | Qty   | Price Each   | Price   |
 |:-----------------------------|:------|:-------------|:--------|
-| Rinascita Ring of Aiming     | 2     | 511961       | 1023922 |
-| Rinascita Beret of Aiming    | 1     | 906750       | 906750  |
-| Rinascita Bracelet of Aiming | 1     | 577853       | 577853  |
-| Rinascita Culverin           | 1     | 1364044      | 1364044 |
-| Rinascita Earring of Aiming  | 1     | 648866       | 648866  |
-| Rinascita Gloves of Aiming   | 1     | 1018447      | 1018447 |
-| Rinascita Jacket of Aiming   | 1     | 1021861      | 1021861 |
-| Rinascita Necklace of Aiming | 1     | 785093       | 785093  |
-| Rinascita Poleyns of Aiming  | 1     | 1006186      | 1006186 |
-| Rinascita Sabatons of Aiming | 1     | 982374       | 982374  |
+| Rinascita Ring of Aiming     | 2     | 330112       | 660224  |
+| Rinascita Beret of Aiming    | 1     | 619747       | 619747  |
+| Rinascita Bracelet of Aiming | 1     | 352745       | 352745  |
+| Rinascita Culverin           | 1     | 1156393      | 1156393 |
+| Rinascita Earring of Aiming  | 1     | 496475       | 496475  |
+| Rinascita Gloves of Aiming   | 1     | 815233       | 815233  |
+| Rinascita Jacket of Aiming   | 1     | 722303       | 722303  |
+| Rinascita Necklace of Aiming | 1     | 593290       | 593290  |
+| Rinascita Poleyns of Aiming  | 1     | 775669       | 775669  |
+| Rinascita Sabatons of Aiming | 1     | 842427       | 842427  |
 | -                            | -     | -            | -       |
-| Total                        |       |              | 9335396 |
+| Total                        |       |              | 7034506 |
